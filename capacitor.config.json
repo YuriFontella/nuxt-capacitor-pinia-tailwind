@@ -1,0 +1,6 @@
+{
+  "appId": "com.app.dream",
+  "appName": "Dream",
+  "webDir": ".output/public",
+  "bundledWebRuntime": false
+}
